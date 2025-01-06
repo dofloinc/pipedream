@@ -953,8 +953,8 @@ importers:
         specifier: ^1.0.0
         version: 1.0.0
       nanoid:
-        specifier: ^5.0.4
-        version: 5.0.8
+        specifier: ^5.0.9
+        version: 5.0.9
       uuid:
         specifier: ^9.0.1
         version: 9.0.1
@@ -1005,8 +1005,7 @@ importers:
         specifier: ^9.0.1
         version: 9.0.1
 
-  components/azure_storage:
-    specifiers: {}
+  components/azure_storage: {}
 
   components/backblaze: {}
 
@@ -2761,8 +2760,8 @@ importers:
         specifier: ^4.7.0
         version: 4.7.0
       nanoid:
-        specifier: ^4.0.1
-        version: 4.0.2
+        specifier: ^5.0.9
+        version: 5.0.9
 
   components/dispatch: {}
 
@@ -3104,8 +3103,7 @@ importers:
 
   components/easypost: {}
 
-  components/easypromos:
-    specifiers: {}
+  components/easypromos: {}
 
   components/easysendy:
     dependencies:
@@ -3159,8 +3157,7 @@ importers:
         specifier: ^4.0.0
         version: 4.0.1
 
-  components/elevio:
-    specifiers: {}
+  components/elevio: {}
 
   components/elmah_io:
     dependencies:
@@ -4823,8 +4820,7 @@ importers:
         specifier: ^1.6.0
         version: 1.6.6
 
-  components/homerun:
-    specifiers: {}
+  components/homerun: {}
 
   components/hookdeck:
     dependencies:
@@ -8319,8 +8315,7 @@ importers:
         specifier: ^1.1.1
         version: 1.6.6
 
-  components/ragie:
-    specifiers: {}
+  components/ragie: {}
 
   components/railsr: {}
 
@@ -8513,8 +8508,7 @@ importers:
         specifier: ^1.3.0
         version: 1.6.6
 
-  components/refiner:
-    specifiers: {}
+  components/refiner: {}
 
   components/reflect:
     dependencies:
@@ -10545,8 +10539,7 @@ importers:
         specifier: ^1.1.0
         version: 1.6.6
 
-  components/textline:
-    specifiers: {}
+  components/textline: {}
 
   components/textlocal:
     dependencies:
@@ -11052,8 +11045,7 @@ importers:
         specifier: ^6.2.13
         version: 6.2.13
 
-  components/typefully:
-    specifiers: {}
+  components/typefully: {}
 
   components/typless: {}
 
@@ -11578,8 +11570,7 @@ importers:
 
   components/weworkbook: {}
 
-  components/what_are_those:
-    specifiers: {}
+  components/what_are_those: {}
 
   components/whatconverts: {}
 
@@ -22453,13 +22444,8 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  nanoid@4.0.2:
-    resolution: {integrity: sha512-7ZtY5KTCNheRGfEFxnedV5zFiORN1+Y1N6zvPTnHQd8ENUvfaDBeuJDZb2bN/oXwXxu3qkTXDzy57W5vAmDTBw==}
-    engines: {node: ^14 || ^16 || >=18}
-    hasBin: true
-
-  nanoid@5.0.8:
-    resolution: {integrity: sha512-TcJPw+9RV9dibz1hHUzlLVy8N4X9TnwirAjrU08Juo6BNKggzVfP2ZJ/3ZUSq15Xl5i85i+Z89XBO90pB2PghQ==}
+  nanoid@5.0.9:
+    resolution: {integrity: sha512-Aooyr6MXU6HpvvWXKoVoXwKMs/KyVakWwg7xQfv5/S/RIgJMy0Ifa45H9qqYy7pTCszrHzP21Uk4PZq2HpEM8Q==}
     engines: {node: ^18 || >=20}
     hasBin: true
 
@@ -30299,7 +30285,7 @@ snapshots:
       dedent: 1.5.3(babel-plugin-macros@3.1.0)
       mailparser: 3.7.1
       mailparser-mit: 1.0.0
-      nanoid: 5.0.8
+      nanoid: 5.0.9
       uuid: 9.0.1
     transitivePeerDependencies:
       - aws-crt
@@ -39744,9 +39730,7 @@ snapshots:
 
   nanoid@3.3.7: {}
 
-  nanoid@4.0.2: {}
-
-  nanoid@5.0.8: {}
+  nanoid@5.0.9: {}
 
   native-duplexpair@1.0.0: {}
 
