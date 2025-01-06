@@ -94,8 +94,8 @@ importers:
         specifier: ^12.3.4
         version: 12.5.0(enquirer@2.4.1)
       pnpm:
-        specifier: 9.14.2
-        version: 9.14.2
+        specifier: 9.15.0
+        version: 9.15.0
       putout:
         specifier: '>=36'
         version: 36.13.1(eslint@8.57.1)(typescript@5.6.3)
@@ -1005,8 +1005,7 @@ importers:
         specifier: ^9.0.1
         version: 9.0.1
 
-  components/azure_storage:
-    specifiers: {}
+  components/azure_storage: {}
 
   components/backblaze: {}
 
@@ -3104,8 +3103,7 @@ importers:
 
   components/easypost: {}
 
-  components/easypromos:
-    specifiers: {}
+  components/easypromos: {}
 
   components/easysendy:
     dependencies:
@@ -3159,8 +3157,7 @@ importers:
         specifier: ^4.0.0
         version: 4.0.1
 
-  components/elevio:
-    specifiers: {}
+  components/elevio: {}
 
   components/elmah_io:
     dependencies:
@@ -4823,8 +4820,7 @@ importers:
         specifier: ^1.6.0
         version: 1.6.6
 
-  components/homerun:
-    specifiers: {}
+  components/homerun: {}
 
   components/hookdeck:
     dependencies:
@@ -8319,8 +8315,7 @@ importers:
         specifier: ^1.1.1
         version: 1.6.6
 
-  components/ragie:
-    specifiers: {}
+  components/ragie: {}
 
   components/railsr: {}
 
@@ -8513,8 +8508,7 @@ importers:
         specifier: ^1.3.0
         version: 1.6.6
 
-  components/refiner:
-    specifiers: {}
+  components/refiner: {}
 
   components/reflect:
     dependencies:
@@ -10545,8 +10539,7 @@ importers:
         specifier: ^1.1.0
         version: 1.6.6
 
-  components/textline:
-    specifiers: {}
+  components/textline: {}
 
   components/textlocal:
     dependencies:
@@ -11052,8 +11045,7 @@ importers:
         specifier: ^6.2.13
         version: 6.2.13
 
-  components/typefully:
-    specifiers: {}
+  components/typefully: {}
 
   components/typless: {}
 
@@ -11578,8 +11570,7 @@ importers:
 
   components/weworkbook: {}
 
-  components/what_are_those:
-    specifiers: {}
+  components/what_are_those: {}
 
   components/whatconverts: {}
 
@@ -23230,8 +23221,8 @@ packages:
     resolution: {integrity: sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==}
     engines: {node: '>=4'}
 
-  pnpm@9.14.2:
-    resolution: {integrity: sha512-biuvd9Brk2IpQVLIUcTyeO3jerHro6Vf2jF6SheyCfTbuXP7JQp3q8Rjo0H8sfF/F8+iQJHE6zGc2g2bhCeDhw==}
+  pnpm@9.15.0:
+    resolution: {integrity: sha512-duI3l2CkMo7EQVgVvNZije5yevN3mqpMkU45RBVsQpmSGon5djge4QfUHxLPpLZmgcqccY8GaPoIMe1MbYulbA==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -40700,7 +40691,7 @@ snapshots:
 
   pluralize@8.0.0: {}
 
-  pnpm@9.14.2: {}
+  pnpm@9.15.0: {}
 
   points-on-curve@0.2.0: {}
 
